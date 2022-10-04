@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/chainmail_chestplate",
+        "layer1": "item/chainmail_chestplate_overlay"
+    },
+	"overrides": [
+    {"predicate": {"custom_model_data":18001}, "model": "magic:icons/spells/cloak"},
+    {"predicate": {"custom_model_data":18002}, "model": "magic:icons_disabled/spells/cloak"},
+	{"predicate": {"custom_model_data":81021}, "model": "item/brassiere"},
+	{"predicate": {"custom_model_data":81022}, "model": "item/pink_brassiere"}
+	]
+}

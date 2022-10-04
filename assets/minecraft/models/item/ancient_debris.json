@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ancient_debris"
+  },
+
+  "overrides": [
+    {"predicate": { "custom_model_data": 0}, "model": "block/ancient_debris"},
+    {"predicate": { "custom_model_data": 75}, "model": "item/ancient_nugget"},
+    {"predicate": { "custom_model_data": 76}, "model": "item/ancient_armors"},
+    {"predicate": { "custom_model_data": 77}, "model": "item/ancient_secret"},
+    {"predicate": { "custom_model_data": 999}, "model": "block/ancient_debris"}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pink_panties",
+        "layer1": "item/chainmail_leggings_overlay"
+    }
+}

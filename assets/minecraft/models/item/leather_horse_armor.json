@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+
+  "overrides": [
+    {"predicate":{"custom_model_data":1},"model":"modelengine:demonic_circle/circle"},
+    {"predicate":{"custom_model_data":2},"model":"modelengine:mexbot-robobat/leftwing"},
+    {"predicate":{"custom_model_data":3},"model":"modelengine:mexbot-robobat/rightwing"},
+    {"predicate":{"custom_model_data":4},"model":"modelengine:mexbot-robobat/torso"},
+    {"predicate":{"custom_model_data":5},"model":"modelengine:paladin_wings/left_wing_end"},
+    {"predicate":{"custom_model_data":6},"model":"modelengine:paladin_wings/left_wing"},
+    {"predicate":{"custom_model_data":7},"model":"modelengine:paladin_wings/right_wing_end"},
+    {"predicate":{"custom_model_data":8},"model":"modelengine:paladin_wings/right_wing"},
+    {"predicate":{"custom_model_data":9},"model":"modelengine:paladin_wings/paladin_wings"},
+    {"predicate":{"custom_model_data":10},"model":"modelengine:star_guardian/head"},
+    {"predicate":{"custom_model_data":11},"model":"modelengine:star_guardian/soulfire"},
+    {"predicate":{"custom_model_data":12},"model":"modelengine:star_guardian/left_thumb"},
+    {"predicate":{"custom_model_data":13},"model":"modelengine:star_guardian/left_finger2"},
+    {"predicate":{"custom_model_data":14},"model":"modelengine:star_guardian/lefthand"},
+    {"predicate":{"custom_model_data":15},"model":"modelengine:star_guardian/left_forearm"},
+    {"predicate":{"custom_model_data":16},"model":"modelengine:star_guardian/leftarm"},
+    {"predicate":{"custom_model_data":17},"model":"modelengine:star_guardian/right_thumb"},
+    {"predicate":{"custom_model_data":18},"model":"modelengine:star_guardian/right_finger3"},
+    {"predicate":{"custom_model_data":19},"model":"modelengine:star_guardian/righthand"},
+    {"predicate":{"custom_model_data":20},"model":"modelengine:star_guardian/right_forearm"},
+    {"predicate":{"custom_model_data":21},"model":"modelengine:star_guardian/rightarm"},
+    {"predicate":{"custom_model_data":22},"model":"modelengine:star_guardian/body"},
+    {"predicate": { "custom_model_data": 18001}, "model": "magic:mobs/dragon/dragon_base"},
+    {"predicate": { "custom_model_data": 18002}, "model": "magic:mobs/dragon/dragon_wing_left"},
+    {"predicate": { "custom_model_data": 18003}, "model": "magic:mobs/dragon/dragon_wing_right"},
+    {"predicate": { "custom_model_data": 18004}, "model": "magic:wands/staff_survival_colorable"}
+  ]
+}

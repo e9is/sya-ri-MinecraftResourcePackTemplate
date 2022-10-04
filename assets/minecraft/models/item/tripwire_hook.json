@@ -1,0 +1,19 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "minecraft:block/tripwire_hook"
+	},
+	"overrides": [
+	{"predicate": {"custom_model_data":0}, "model": "block/tripwire_hook"},
+	{"predicate": {"custom_model_data":1}, "model": "item/key"},
+	{"predicate": {"custom_model_data":2}, "model": "item/syringe"},
+	{"predicate": {"custom_model_data":3}, "model": "block/tripwire_hook"},
+	{"predicate": {"custom_model_data":67}, "model": "item/sunadokei"},
+	{"predicate": {"custom_model_data":68}, "model": "item/shouin"},
+	{"predicate": {"custom_model_data":69}, "model": "block/tripwire_hook"},
+    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/lockpick"},
+    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/lockpick"},
+    {"predicate": { "custom_model_data": 18003}, "model": "magic:icons/spells/sniper"},
+    {"predicate": { "custom_model_data": 18004}, "model": "magic:icons_disabled/spells/sniper"}
+	]
+}

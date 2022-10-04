@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/iron_rapier"},
+	{"predicate": {"custom_model_data":2}, "model": "item/iron_twohand_sword"},
+	{"predicate": {"custom_model_data":101}, "model": "item/iron_gloves"},
+	{"predicate": {"custom_model_data":102}, "model": "item/iron_gauntlet"},
+	{"predicate": {"custom_model_data":103}, "model": "item/iron_bracelet"},
+	{"predicate": {"custom_model_data":104}, "model": "item/iron_ring"},
+	{"predicate": {"custom_model_data":105}, "model": "item/iron_knife"},
+	{"predicate": {"custom_model_data":106}, "model": "item/omamori"},
+	{"predicate": {"custom_model_data":77777}, "model": "item/iron_katana"}
+	]
+}

@@ -1,0 +1,45 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/pufferfish"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 74}, "model": "item/fish/74"},
+    {"predicate": {"custom_model_data": 75}, "model": "item/fish/75"},
+    {"predicate": {"custom_model_data": 76}, "model": "item/fish/76"},
+    {"predicate": {"custom_model_data": 77}, "model": "item/fish/77"},
+    {"predicate": {"custom_model_data": 78}, "model": "item/fish/78"},
+    {"predicate": {"custom_model_data": 79}, "model": "item/fish/79"},
+    {"predicate": {"custom_model_data": 80}, "model": "item/fish/80"},
+    {"predicate": {"custom_model_data": 81}, "model": "item/fish/81"},
+    {"predicate": {"custom_model_data": 82}, "model": "item/fish/82"},
+    {"predicate": {"custom_model_data": 83}, "model": "item/fish/83"},
+    {"predicate": {"custom_model_data": 84}, "model": "item/fish/84"},
+    {"predicate": {"custom_model_data": 85}, "model": "item/fish/85"},
+    {"predicate": {"custom_model_data": 86}, "model": "item/fish/86"},
+    {"predicate": {"custom_model_data": 87}, "model": "item/fish/87"},
+    {"predicate": {"custom_model_data": 88}, "model": "item/fish/88"},
+    {"predicate": {"custom_model_data": 89}, "model": "item/fish/89"},
+    {"predicate": {"custom_model_data": 90}, "model": "item/fish/90"},
+    {"predicate": {"custom_model_data": 91}, "model": "item/fish/91"},
+    {"predicate": {"custom_model_data": 92}, "model": "item/fish/92"},
+    {"predicate": {"custom_model_data": 93}, "model": "item/fish/93"},
+    {"predicate": {"custom_model_data": 94}, "model": "item/fish/94"},
+    {"predicate": {"custom_model_data": 95}, "model": "item/fish/95"},
+    {"predicate": {"custom_model_data": 96}, "model": "item/fish/96"},
+    {"predicate": {"custom_model_data": 97}, "model": "item/fish/97"},
+    {"predicate": {"custom_model_data": 98}, "model": "item/fish/98"},
+    {"predicate": {"custom_model_data": 99}, "model": "item/fish/99"},
+    {"predicate": {"custom_model_data": 100}, "model": "item/fish/100"},
+    {"predicate": {"custom_model_data": 101}, "model": "item/fish/101"},
+    {"predicate": {"custom_model_data": 102}, "model": "item/fish/102"},
+    {"predicate": {"custom_model_data": 103}, "model": "item/fish/103"},
+    {"predicate": {"custom_model_data": 104}, "model": "item/fish/104"},
+    {"predicate": {"custom_model_data": 105}, "model": "item/fish/105"},
+    {"predicate": {"custom_model_data": 106}, "model": "item/fish/106"},
+    {"predicate": {"custom_model_data": 107}, "model": "item/fish/107"},
+    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/ghast"},
+    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/ghast"}
+  ]
+}

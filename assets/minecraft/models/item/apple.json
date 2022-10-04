@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/apple"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/mikan"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/peach"},
+    {"predicate": {"custom_model_data": 10}, "model": "item/applecandy"},
+    {"predicate": {"custom_model_data": 11}, "model": "item/chocobanana"},
+    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/heal"},
+    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/heal"}
+  ]
+}

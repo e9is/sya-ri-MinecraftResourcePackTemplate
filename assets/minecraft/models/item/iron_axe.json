@@ -1,0 +1,13 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_axe"
+	},
+	"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/iron_mace"},
+	{"predicate": {"custom_model_data":2}, "model": "item/iron_hammer"},
+	{"predicate": {"custom_model_data":3}, "model": "item/iron_nata"},
+    {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/spells/chop"},
+    {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/chop"}
+	]
+}

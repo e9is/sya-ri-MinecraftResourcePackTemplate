@@ -1,0 +1,17 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/iron_nugget"
+	},
+	"overrides": [
+	{"predicate": {"custom_model_data":0}, "model": "item/iron_nugget_org"},
+	{"predicate": {"custom_model_data":74}, "model": "item/iron_coin"},
+	{"predicate": {"custom_model_data":101}, "model": "item/sibirewana"},
+	{"predicate": {"custom_model_data":102}, "model": "item/mawarewana"},
+	{"predicate": {"custom_model_data":103}, "model": "item/otosiana"},
+	{"predicate": {"custom_model_data":104}, "model": "item/tarubomb"},
+	{"predicate": {"custom_model_data":105}, "model": "item/tarubombg"},
+	{"predicate": {"custom_model_data":666}, "model": "item/magnetite"},
+	{"predicate": {"custom_model_data":667}, "model": "item/iron_nugget_org"}
+	]
+}

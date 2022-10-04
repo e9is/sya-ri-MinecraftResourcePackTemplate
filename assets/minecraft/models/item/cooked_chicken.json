@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_chicken"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 0}, "model": "item/cooked_chicken_org"},
+    {"predicate": {"custom_model_data": 1}, "model": "item/egg_yude"},
+    {"predicate": {"custom_model_data": 999}, "model": "item/cooked_chicken_org"}
+  ]
+}

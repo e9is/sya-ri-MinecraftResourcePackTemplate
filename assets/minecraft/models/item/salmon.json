@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/salmon"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 35}, "model": "item/fish/35"},
+    {"predicate": {"custom_model_data": 36}, "model": "item/fish/36"},
+    {"predicate": {"custom_model_data": 37}, "model": "item/fish/37"},
+    {"predicate": {"custom_model_data": 38}, "model": "item/fish/38"},
+    {"predicate": {"custom_model_data": 39}, "model": "item/fish/39"},
+    {"predicate": {"custom_model_data": 40}, "model": "item/fish/40"},
+    {"predicate": {"custom_model_data": 41}, "model": "item/fish/41"},
+    {"predicate": {"custom_model_data": 42}, "model": "item/fish/42"},
+    {"predicate": {"custom_model_data": 43}, "model": "item/fish/43"},
+    {"predicate": {"custom_model_data": 44}, "model": "item/fish/44"},
+    {"predicate": {"custom_model_data": 45}, "model": "item/fish/45"},
+    {"predicate": {"custom_model_data": 46}, "model": "item/fish/46"},
+    {"predicate": {"custom_model_data": 47}, "model": "item/fish/47"},
+    {"predicate": {"custom_model_data": 48}, "model": "item/fish/48"},
+    {"predicate": {"custom_model_data": 49}, "model": "item/fish/49"},
+    {"predicate": {"custom_model_data": 50}, "model": "item/fish/50"},
+    {"predicate": {"custom_model_data": 51}, "model": "item/fish/51"},
+    {"predicate": {"custom_model_data": 52}, "model": "item/fish/52"},
+    {"predicate": {"custom_model_data": 53}, "model": "item/fish/53"},
+    {"predicate": {"custom_model_data": 54}, "model": "item/fish/54"},
+    {"predicate": {"custom_model_data": 55}, "model": "item/fish/55"},
+    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/tame"},
+    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/tame"}
+  ]
+}

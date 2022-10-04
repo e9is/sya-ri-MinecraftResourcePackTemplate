@@ -1,0 +1,18 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_sword"
+	},
+	"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/wooden_rapier"},
+	{"predicate": {"custom_model_data":2}, "model": "item/wooden_twohand_sword"},
+	{"predicate": {"custom_model_data":101}, "model": "item/wooden_gloves"},
+	{"predicate": {"custom_model_data":102}, "model": "item/wooden_gauntlet"},
+	{"predicate": {"custom_model_data":103}, "model": "item/wooden_bracelet"},
+	{"predicate": {"custom_model_data":104}, "model": "item/wooden_ring"},
+	{"predicate": {"custom_model_data":105}, "model": "item/wooden_knife"},
+	{"predicate": {"custom_model_data":106}, "model": "item/omamori"},
+	{"predicate": {"custom_model_data":107}, "model": "item/ohuda"},
+	{"predicate": {"custom_model_data":77777}, "model": "item/wooden_katana"}
+	]
+}

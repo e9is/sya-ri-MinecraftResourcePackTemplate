@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/chainmail_leggings",
+        "layer1": "item/chainmail_leggings_overlay"
+    },
+	"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/obi"},
+	{"predicate": {"custom_model_data":665}, "model": "item/core_r"},
+	{"predicate": {"custom_model_data":666}, "model": "item/core_lb"},
+	{"predicate": {"custom_model_data":667}, "model": "item/core_cy"},
+	{"predicate": {"custom_model_data":8102}, "model": "item/panties"},
+	{"predicate": {"custom_model_data":81020}, "model": "item/pink_panties"}
+	]
+}

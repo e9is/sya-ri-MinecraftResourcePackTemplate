@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/wing_angel",
+    "layer1": "item/wing_angel_o"
+  }
+}

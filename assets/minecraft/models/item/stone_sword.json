@@ -1,0 +1,17 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stone_sword"
+	},
+	"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/stone_rapier"},
+	{"predicate": {"custom_model_data":2}, "model": "item/stone_twohand_sword"},
+	{"predicate": {"custom_model_data":101}, "model": "item/stone_gloves"},
+	{"predicate": {"custom_model_data":102}, "model": "item/stone_gauntlet"},
+	{"predicate": {"custom_model_data":103}, "model": "item/stone_bracelet"},
+	{"predicate": {"custom_model_data":104}, "model": "item/stone_ring"},
+	{"predicate": {"custom_model_data":105}, "model": "item/stone_knife"},
+	{"predicate": {"custom_model_data":106}, "model": "item/omamori"},
+	{"predicate": {"custom_model_data":77777}, "model": "item/stone_katana"}
+	]
+}

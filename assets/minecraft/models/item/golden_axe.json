@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_axe"
+	},
+	"overrides": [
+	{"predicate": {"custom_model_data":1}, "model": "item/golden_mace"},
+	{"predicate": {"custom_model_data":2}, "model": "item/golden_hammer"},
+	{"predicate": {"custom_model_data":3}, "model": "item/golden_nata"}
+	]
+}

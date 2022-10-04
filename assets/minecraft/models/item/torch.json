@@ -1,0 +1,16 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"torch": "minecraft:block/torch"
+	},
+	"overrides": [
+	{"predicate": {"custom_model_data":0}, "model": "item/torch_default"},
+	{"predicate": {"custom_model_data":1}, "model": "item/tabaco"},
+	{"predicate": {"custom_model_data":2}, "model": "item/hamaki"},
+	{"predicate": {"custom_model_data":3}, "model": "block/torch"},
+    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/torch"},
+    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/supertorch"},
+    {"predicate": { "custom_model_data": 18003}, "model": "magic:icons/spells/torch"},
+    {"predicate": { "custom_model_data": 18004}, "model": "magic:icons_disabled/spells/supertorch"}
+	]
+}

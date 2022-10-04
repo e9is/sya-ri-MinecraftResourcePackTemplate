@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pink_brassiere",
+        "layer1": "item/chainmail_chestplate_overlay"
+    }
+}

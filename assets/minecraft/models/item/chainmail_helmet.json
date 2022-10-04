@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/chainmail_helmet",
+        "layer1": "item/chainmail_helmet_overlay"
+    },
+	"overrides": [
+	{"predicate": {"custom_model_data":81021}, "model": "item/mimi"},
+	{"predicate": {"custom_model_data":81022}, "model": "item/pink_mimi"},
+	{"predicate": {"custom_model_data":81023}, "model": "item/neko_mimi"}
+	]
+}

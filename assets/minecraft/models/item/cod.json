@@ -1,0 +1,52 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "minecraft:item/cod"
+    },
+    "display": {
+        "head": {
+            "rotation": [ 0, 90, -60 ],
+            "translation": [ -7, -4, -7],
+            "scale":[ 0.8, 0.8, 0.8]
+        }
+    },
+
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/fish/1"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/fish/2"},
+    {"predicate": {"custom_model_data": 3}, "model": "item/fish/3"},
+    {"predicate": {"custom_model_data": 4}, "model": "item/fish/4"},
+    {"predicate": {"custom_model_data": 5}, "model": "item/fish/5"},
+    {"predicate": {"custom_model_data": 6}, "model": "item/fish/6"},
+    {"predicate": {"custom_model_data": 7}, "model": "item/fish/7"},
+    {"predicate": {"custom_model_data": 8}, "model": "item/fish/8"},
+    {"predicate": {"custom_model_data": 9}, "model": "item/fish/9"},
+    {"predicate": {"custom_model_data": 10}, "model": "item/fish/10"},
+    {"predicate": {"custom_model_data": 11}, "model": "item/fish/11"},
+    {"predicate": {"custom_model_data": 12}, "model": "item/fish/12"},
+    {"predicate": {"custom_model_data": 13}, "model": "item/fish/13"},
+    {"predicate": {"custom_model_data": 14}, "model": "item/fish/14"},
+    {"predicate": {"custom_model_data": 15}, "model": "item/fish/15"},
+    {"predicate": {"custom_model_data": 16}, "model": "item/fish/16"},
+    {"predicate": {"custom_model_data": 17}, "model": "item/fish/17"},
+    {"predicate": {"custom_model_data": 18}, "model": "item/fish/18"},
+    {"predicate": {"custom_model_data": 19}, "model": "item/fish/19"},
+    {"predicate": {"custom_model_data": 20}, "model": "item/fish/20"},
+    {"predicate": {"custom_model_data": 21}, "model": "item/fish/21"},
+    {"predicate": {"custom_model_data": 22}, "model": "item/fish/22"},
+    {"predicate": {"custom_model_data": 23}, "model": "item/fish/23"},
+    {"predicate": {"custom_model_data": 24}, "model": "item/fish/24"},
+    {"predicate": {"custom_model_data": 25}, "model": "item/fish/25"},
+    {"predicate": {"custom_model_data": 26}, "model": "item/fish/26"},
+    {"predicate": {"custom_model_data": 27}, "model": "item/fish/27"},
+    {"predicate": {"custom_model_data": 28}, "model": "item/fish/28"},
+    {"predicate": {"custom_model_data": 29}, "model": "item/fish/29"},
+    {"predicate": {"custom_model_data": 30}, "model": "item/fish/30"},
+    {"predicate": {"custom_model_data": 31}, "model": "item/fish/31"},
+    {"predicate": {"custom_model_data": 32}, "model": "item/fish/32"},
+    {"predicate": {"custom_model_data": 33}, "model": "item/fish/33"},
+    {"predicate": {"custom_model_data": 34}, "model": "item/fish/34"},
+    {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/cat"},
+    {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/cat"}
+  ]
+}

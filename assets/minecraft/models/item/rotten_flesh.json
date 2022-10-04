@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/rotten_flesh"
+  },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/unko"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/torinohun"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/gero"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/temiflakes"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/kawa"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/niku"},
+        {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/spells/curse"},
+        {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/curse"}
+    ]
+}

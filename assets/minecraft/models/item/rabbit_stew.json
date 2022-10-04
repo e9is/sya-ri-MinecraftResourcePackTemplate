@@ -1,0 +1,24 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/rabbit_stew"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/stew/morning"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/stew/noodle"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/stew/omelet"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/stew/pasta"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/stew/potofu"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/stew/salad"},
+        {"predicate": {"custom_model_data": 7}, "model": "item/stew/sasimi"},
+        {"predicate": {"custom_model_data": 8}, "model": "item/stew/croquette"},
+        {"predicate": {"custom_model_data": 9}, "model": "item/stew/curry"},
+        {"predicate": {"custom_model_data": 10}, "model": "item/stew/fly"},
+        {"predicate": {"custom_model_data": 11}, "model": "item/stew/gratin"},
+        {"predicate": {"custom_model_data": 12}, "model": "item/stew/hamburg"},
+        {"predicate": {"custom_model_data": 13}, "model": "item/stew/pizza"},
+        {"predicate": {"custom_model_data": 101}, "model": "item/stew/katsuonotataki"},
+        {"predicate": { "custom_model_data": 18001}, "model": "magic:icons/spells/pickpocket"},
+        {"predicate": { "custom_model_data": 18002}, "model": "magic:icons_disabled/spells/pickpocket"}
+    ]
+}

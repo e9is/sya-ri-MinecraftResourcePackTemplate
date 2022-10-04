@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/grass"
+  },
+
+  "overrides": [
+    {"predicate": { "custom_model_data": 0}, "model": "item/grass_default"},
+    {"predicate": { "custom_model_data": 1}, "model": "item/yakusou"},
+    {"predicate": { "custom_model_data": 999}, "model": "item/grass_default"}
+  ]
+}

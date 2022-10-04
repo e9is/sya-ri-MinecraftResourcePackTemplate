@@ -1,0 +1,19 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pumpkin_pie"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/sandwich"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/crepe"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/icecream"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/dango"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/strawberry_donut"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/nikuman"},
+        {"predicate": {"custom_model_data": 214}, "model": "item/love_choco"},
+        {"predicate": {"custom_model_data": 215}, "model": "item/valentine_choko"},
+        {"predicate": {"custom_model_data": 18001}, "model": "magic:icons/spells/time"},
+        {"predicate": {"custom_model_data": 18002}, "model": "magic:icons_disabled/spells/time"},
+        {"predicate": {"custom_model_data": 45010}, "model": "item/chocolate"}
+    ]
+}

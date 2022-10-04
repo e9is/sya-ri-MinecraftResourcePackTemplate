@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/tropical_fish"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 56}, "model": "item/fish/56"},
+        {"predicate": {"custom_model_data": 57}, "model": "item/fish/57"},
+        {"predicate": {"custom_model_data": 58}, "model": "item/fish/58"},
+        {"predicate": {"custom_model_data": 59}, "model": "item/fish/59"},
+        {"predicate": {"custom_model_data": 60}, "model": "item/fish/60"},
+        {"predicate": {"custom_model_data": 61}, "model": "item/fish/61"},
+        {"predicate": {"custom_model_data": 62}, "model": "item/fish/62"},
+        {"predicate": {"custom_model_data": 63}, "model": "item/fish/63"},
+        {"predicate": {"custom_model_data": 64}, "model": "item/fish/64"},
+        {"predicate": {"custom_model_data": 65}, "model": "item/fish/65"},
+        {"predicate": {"custom_model_data": 66}, "model": "item/fish/66"},
+        {"predicate": {"custom_model_data": 67}, "model": "item/fish/67"},
+        {"predicate": {"custom_model_data": 68}, "model": "item/fish/68"},
+        {"predicate": {"custom_model_data": 69}, "model": "item/fish/69"},
+        {"predicate": {"custom_model_data": 70}, "model": "item/fish/70"},
+        {"predicate": {"custom_model_data": 71}, "model": "item/fish/71"},
+        {"predicate": {"custom_model_data": 72}, "model": "item/fish/72"},
+        {"predicate": {"custom_model_data": 73}, "model": "item/fish/73"}
+    ]
+}
